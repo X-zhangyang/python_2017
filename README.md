@@ -1,3 +1,7 @@
 # python_2017
-All my tools 
-This document contain my codes
+other_code: All my tools.
+object_detection: How to detect obeject in your computer. 
+
+
+
+
