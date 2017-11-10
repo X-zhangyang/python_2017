@@ -1,3 +1,7 @@
 This flie contain describe how to download images from baidu.
 Download_picture.PY can download large amount of images and save in document. This code need a name.txt.
+Download.PY and Download_2.PY are different way to down load images.
+Rename.py can be use to rename files name.
+Preread_images.py read all images information. Like img.mode, img.format.
+txt_xml.py generate xml which use to create TFrecord in train obeject_detection training.
 
