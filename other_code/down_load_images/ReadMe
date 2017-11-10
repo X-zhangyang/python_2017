@@ -1,1 +1,3 @@
 This flie contain describe how to download images from baidu.
+Download_picture.PY can download large amount of images and save in document. This code need a name.txt.
+
