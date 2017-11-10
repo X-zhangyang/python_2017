@@ -1,2 +1,11 @@
 This file contain all code on how to use object_detection 
 Object_detection module's website is "https://github.com/davidsandberg/facenet" 
+
+object_dectection_image.py: detect objects from an image.
+object_detection_video.py: detect objects from a video.
+object_detection_app.py: detect objects online through web-camera.
+Every_Step.m: tell all how to train your own model. First:creating training dataset. Second:train model.
+
+
+
+
