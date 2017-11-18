@@ -1,1 +1,8 @@
 How to Setup a DATASET using python and baidu.
+Download_picture.py: Download iamges. User can choose the images numbers. 
+chinese_to_pinyin.py: Creat a txt file incude chinese name and chinese pinyin name which can be used in downloading pictures.
+sample_txt: Using to download pictures. 
+choose_images_step_1.py: Transform images into RGB and JEPG. Rezise images. 
+choose_images_step_2.py:
+choose_images_step_3.py:
+
